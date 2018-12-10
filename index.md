@@ -5,11 +5,11 @@ This is [GOOGLE](https://www.google.co.in/)
 
 This is my **FIRST** *WEBPAGE*
 
-* Learn 1
+* Learn
    * Learn to open 
    * Learn to close 
 
-1. Edit 2
+1. Edit
    1. Edit a file 
    
    
