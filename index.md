@@ -13,8 +13,8 @@ This is my **FIRST** *WEBPAGE*
    1. Edit a file 2a
    
    
-### Idea 1 | ### Idea 2
------------|-----------
+ Idea 1 | Idea 2
+--------|-----------
 may be | may not
 can | cannot
 
