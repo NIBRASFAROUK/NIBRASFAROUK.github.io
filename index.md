@@ -5,12 +5,12 @@ This is [GOOGLE](https://www.google.co.in/)
 
 This is my **FIRST** *WEBPAGE*
 
-1. Learn 1
-   1. Learn to open 1a
-   1. Learn to close 1b
+* Learn 1
+   * Learn to open 
+   * Learn to close 
 
 1. Edit 2
-   1. Edit a file 2a
+   1. Edit a file 
    
    
  Idea 1 | Idea 2
